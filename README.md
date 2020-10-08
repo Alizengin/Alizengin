@@ -38,6 +38,6 @@
 
 [spotify]: https://open.spotify.com/playlist/74sUjcvpGfdOvCHvgzNEDO?si=Mo5zoGcGRKKxK4eII4e-MA
 [twitter]: https://twitter.com/MAliZengin2
-[instagram]: https://twitter.com/MAliZengin2
+[instagram]: https://instagram.com/ali1407zengin
 [pxl]: https://www.pxl.be/
 
